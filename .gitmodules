@@ -1,0 +1,6 @@
+[submodule "Intern_day_apple"]
+	path = Intern_day_apple
+	url = https://github.com/venkata-vazrala/intern_day_apple.git
+[submodule "soliton-internship"]
+	path = soliton-internship
+	url = https://github.com/venkata-vazrala/soliton-internship.git
